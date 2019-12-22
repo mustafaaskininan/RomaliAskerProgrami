@@ -1,0 +1,10 @@
+C:\Users\maski\Desktop\GITHUB\Romalı Asker\RomalıAsker\bin\Debug\RomalıAsker.exe.config
+C:\Users\maski\Desktop\GITHUB\Romalı Asker\RomalıAsker\bin\Debug\RomalıAsker.exe
+C:\Users\maski\Desktop\GITHUB\Romalı Asker\RomalıAsker\bin\Debug\RomalıAsker.pdb
+C:\Users\maski\Desktop\GITHUB\Romalı Asker\RomalıAsker\obj\Debug\RomalıAsker.csprojAssemblyReference.cache
+C:\Users\maski\Desktop\GITHUB\Romalı Asker\RomalıAsker\obj\Debug\RomalıAsker.Form1.resources
+C:\Users\maski\Desktop\GITHUB\Romalı Asker\RomalıAsker\obj\Debug\RomalıAsker.Properties.Resources.resources
+C:\Users\maski\Desktop\GITHUB\Romalı Asker\RomalıAsker\obj\Debug\RomalıAsker.csproj.GenerateResource.cache
+C:\Users\maski\Desktop\GITHUB\Romalı Asker\RomalıAsker\obj\Debug\RomalıAsker.csproj.CoreCompileInputs.cache
+C:\Users\maski\Desktop\GITHUB\Romalı Asker\RomalıAsker\obj\Debug\RomalıAsker.exe
+C:\Users\maski\Desktop\GITHUB\Romalı Asker\RomalıAsker\obj\Debug\RomalıAsker.pdb
